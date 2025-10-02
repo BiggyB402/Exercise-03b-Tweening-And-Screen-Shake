@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -405,6 +404,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: BreakoutBlock
       objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: SizeBySpeedModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6134185372281058416, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.5199995
@@ -647,6 +654,14 @@ PrefabInstance:
     - target: {fileID: 1110517035827735320, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_Name
       value: BreakoutBlock
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: SizeBySpeedModule.enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6134185372281058416, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1522,6 +1537,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: BreakoutBlock
       objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: SizeBySpeedModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6134185372281058416, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 11.919999
@@ -1584,6 +1607,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: BreakoutBlock
       objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: SizeBySpeedModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6134185372281058416, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.4699998
@@ -1645,6 +1676,14 @@ PrefabInstance:
     - target: {fileID: 1110517035827735320, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_Name
       value: BreakoutBlock
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: SizeBySpeedModule.enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6134185372281058416, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2295,6 +2334,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: BreakoutBlock
       objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: SizeBySpeedModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6134185372281058416, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7.1
@@ -2584,6 +2631,14 @@ PrefabInstance:
     - target: {fileID: 1110517035827735320, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_Name
       value: BreakoutBlock
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: SizeBySpeedModule.enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6134185372281058416, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3276,6 +3331,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: BreakoutBlock
       objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: SizeBySpeedModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6134185372281058416, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.0699999
@@ -3733,6 +3796,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: BreakoutBlock
       objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: SizeBySpeedModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6134185372281058416, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.7
@@ -3970,6 +4041,14 @@ PrefabInstance:
     - target: {fileID: 1110517035827735320, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_Name
       value: BreakoutBlock
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: SizeBySpeedModule.enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6134185372281058416, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4552,6 +4631,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: BreakoutBlock
       objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: SizeBySpeedModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6134185372281058416, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13.12
@@ -4613,6 +4700,25 @@ PrefabInstance:
     - target: {fileID: 1110517035827735320, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_Name
       value: BreakoutBlock
+      objectReference: {fileID: 0}
+    - target: {fileID: 1498082165460242244, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"scores","value":{"$content":[25,50,75,100],"$type":"System.Collections.Generic.List`1[[System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"blockType","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"colors","value":{"$content":[{"r":0.6886792,"g":0.1193957,"b":0.09420614,"a":0.0},{"r":0.3289427,"g":0.9056604,"b":0.8099238,"a":0.0},{"r":0.9056604,"g":0.8844374,"b":0.243503,"a":0.0},{"r":0.08831433,"g":0.4716981,"b":0.08677466,"a":0.0}],"$type":"System.Collections.Generic.List`1[[UnityEngine.Color,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.Color,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6028185983125751078, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
+      propertyPath: SizeBySpeedModule.enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6134185372281058416, guid: 47699b366ef5cb24ba6553df86c3627f, type: 3}
       propertyPath: m_LocalPosition.x
